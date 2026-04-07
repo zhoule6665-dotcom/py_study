@@ -1,0 +1,3 @@
+import import_init
+if "__name__"=='__main__':
+    import_init.POint()
